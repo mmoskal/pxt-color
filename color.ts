@@ -5,7 +5,7 @@
 namespace color {
     let currentColors: Buffer;
 
-    // A color in hex format, between 0x000000 and 0xFFFFFF
+    // A color in hex format, between #000000 and #FFFFFF
     export type Color = number;
 
     /**
